@@ -1,0 +1,1 @@
+print('Hello {name},{greeting}'.format(greeting= 'Good Morning',name='Vaibhav'))
